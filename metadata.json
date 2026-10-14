@@ -1,0 +1,6 @@
+{
+  "name": "나의 빵 타입 찾기!",
+  "description": "꼬마 빵집에서 3가지 재미난 놀이를 하고 나만의 빵 친구를 찾아보는 어린이용 모바일 웹 미니게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
